@@ -28,6 +28,6 @@
 ## 📈 My GitHub Stats 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoRamos&theme=algolia&show_icons=true&custom_title=Diogo%20Ramos's%20GitHub%20Stats" alt="My stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRamos&layout=compact&theme=algolia" alt="Top Lang" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiogoRamos9&theme=algolia&show_icons=true&custom_title=Diogo%20Ramos's%20GitHub%20Stats" alt="My stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRamos9&layout=compact&theme=algolia" alt="Top Lang" height="180px">
 </div>
