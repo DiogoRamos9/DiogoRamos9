@@ -55,4 +55,4 @@
 
 - 📄 [CV](https://github.com/user-attachments/files/20902816/CV.pdf) 
 
-- 🌐 [LinkedIn](www.linkedin.com/in/diogo-salazar-2436b4371) 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diogo-salazar-2436b4371) 
