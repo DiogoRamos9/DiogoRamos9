@@ -49,3 +49,10 @@
 | [Ultimate Tic-Tac-Toe](https://github.com/DiogoRamos9/Y3S2-IATICTACTOE) | The ultimate Tic-Tac-Toe game, which uses algorithms such as Monte Carlo and Minimax to create an AI player.  | Python |
 | [Smoker Status Prediction](https://github.com/DiogoRamos9/Y3S2-SMOKERPREDICTION)| Smoker status prediction using Machine Learning algorithms | Python |
 | [Matrix Multiplication Analysis](https://github.com/DiogoRamos9/Y3S2-CPD/tree/main/assign1) | Different algorithms for matrix multiplication were implemented, and the results obtained were analysed in detail.| C++, Python|
+
+
+## 📞 Contacts 📞
+
+- 📄 [CV](https://github.com/user-attachments/files/20902816/CV.pdf) 
+
+- 🌐 [LinkedIn](www.linkedin.com/in/diogo-salazar-2436b4371) 
