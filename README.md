@@ -2,9 +2,9 @@
 
 ## 🔍 About me 🔍
 
-- 🎓 **Education:** Currently doing a Bachelor's degree in Informatics and Computing Engineering at the Faculty of Engineering of University of Porto (FEUP)
-- 🔭 **Interests:** Interest in various areas, mainly back-end, computer networks and data science.
-- 💫 **Future:** I plan to pursue a Master's degree in network engineering or data science after completing my Bachelor's.
+- 🎓 I have a Bachelor's degree in Informatics and Computing Engineering from @FEUP
+- 🎓 Currently doing a Master's degree in Network and Information Systems Engineering at the Faculty of Sciences of the University of Porto (FCUP)
+- 🔭 **Interests:** Main interests are in computer networks, management and configuration, and information systems.
 
 ## ✨ Skills ✨
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,html,css,js,php,py,haskell,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,py" />
   </a>
 </p>
 
@@ -20,8 +20,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,postgres,sqlite,clion,vim,vscode,docker,git,github,gitlab,figma,md,windows,linux,bootstrap,gradle,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,clion,vim,vscode,docker,git,github,gitlab,figma,md,windows,linux" />
   </a>
+  <img src="https://cdn.simpleicons.org/cisco" width="48" height="48" alt="Cisco" />
 </p>
 
 
